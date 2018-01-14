@@ -1,2 +1,2 @@
-# mdrn
-A modern style guide for designing websites and web applications.
+# M D R N
+A modern and minimalist style guide for designing websites and web applications.
